@@ -1,5 +1,7 @@
 #  PROJECTO 3 / GRUPO 6
 
+jOEL RODRIGUEZ - GERARD CHICOTE - JORDI CERVERA - CARLOS ERENCIA
+
 ## Project setup
 ```
 npm install
