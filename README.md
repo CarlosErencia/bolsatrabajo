@@ -1,4 +1,6 @@
-# bolsatrabajo
+#  PROJECTO 3 / GRUPO 6
+
+JOEL RODRIGUEZ - GERARD CHICOTE - JORDI CERVERA - CARLOS ERENCIA
 
 ## Project setup
 ```
@@ -19,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
