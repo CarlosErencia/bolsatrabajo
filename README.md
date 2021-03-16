@@ -1,4 +1,4 @@
-# bolsatrabajo
+#  PROJECTO 3 / GRUPO 6
 
 ## Project setup
 ```
