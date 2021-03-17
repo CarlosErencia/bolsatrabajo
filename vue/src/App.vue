@@ -1,16 +1,19 @@
 <template>
   <div id="app">
     <Botones/>
+    <Consulta/>
   </div>
 </template>
 
 <script>
 import Botones from './components/Botones.vue'
+import Consulta from './components/Consulta.vue'
 
 export default {
   name: 'App',
   components: {
-    Botones
+    Botones,
+    Consulta
   }
 }
 </script>
